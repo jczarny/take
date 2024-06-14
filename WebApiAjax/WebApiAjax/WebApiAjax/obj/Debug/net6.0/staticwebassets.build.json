@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "J7yrZfIhEhaY6/lbt3JpTY13z734b8tZjboxi9I0M68=",
+  "Source": "WebApiAjax",
+  "BasePath": "_content/WebApiAjax",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAjax\\wwwroot",
+      "Source": "WebApiAjax",
+      "ContentRoot": "C:\\Users\\opszc\\source\\repos\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\opszc\\source\\repos\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "SourceId": "WebApiAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\opszc\\source\\repos\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
